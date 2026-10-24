@@ -110,6 +110,9 @@ def summary(england, spread, latest, baseline, latest_rank, changes) -> str:
         f"Source: DfT table BUS09, {spread['n'].max()} local authority areas, {england.index[0]} to {latest}. "
         "Measure: % of non-frequent bus services (fewer than six an hour) running on time.",
         "",
+        "Years are DfT reporting years ending in March: 2019 means April 2018 to March 2019, the last full year "
+        "before COVID-19. The 2021 peak reflects lockdown, when roads were empty and timetables were cut.",
+        "",
         "## Headline",
         "",
         f"- {label}: **{england[latest]:.1f}%** of non-frequent services ran on time in {latest}, "

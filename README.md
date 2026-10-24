@@ -2,7 +2,7 @@
 
 How punctual are England's local bus services, which areas are getting worse, and has the gap between the best and worst areas grown since before the pandemic?
 
-**Results:** see [`results/summary.md`](results/summary.md) for the national trend, the most and least punctual areas, the biggest changes since 2018/19, and the charts.
+**Results:** see [`results/summary.md`](results/summary.md) for the national trend, the most and least punctual areas, the biggest changes since before the pandemic, and the charts.
 
 ## Data
 
@@ -16,7 +16,7 @@ The workflow in `.github/workflows/update.yml` re-downloads the data and rebuild
 
 - **National trend:** England's figure where DfT publishes it, with the spread of individual areas (10th to 90th percentile) shown behind it.
 - **Rankings:** local authorities only. Regional and national totals are removed (by name and by ONS code prefix) so they don't appear as "areas".
-- **Recovery:** each area's latest figure compared with 2018/19, the last full year before COVID-19.
+- **Recovery:** each area's latest figure compared with the year ending March 2019, the last full year before COVID-19.
 - **Inequality between areas:** the gap between the 90th and 10th percentile area, year by year.
 
 ## Limitations
