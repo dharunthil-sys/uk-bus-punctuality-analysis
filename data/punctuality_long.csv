@@ -1,0 +1,1633 @@
+area,year,pct_on_time,area_code
+North East,2006,66.5,E12000001
+North East,2007,73.2,E12000001
+North East,2009,79.4,E12000001
+North East,2010,78.0,E12000001
+North East,2011,78.9,E12000001
+North East,2012,80.5,E12000001
+North East,2013,79.6,E12000001
+North East,2014,81.0,E12000001
+North East,2015,81.9,E12000001
+North East,2016,85.2,E12000001
+North East,2017,89.8,E12000001
+North East,2018,87.6,E12000001
+North East,2019,88.1,E12000001
+North East,2020,88.5,E12000001
+North East,2021,91.2,E12000001
+North East,2022,91.3,E12000001
+North East,2023,86.9,E12000001
+North East,2024,82.3,E12000001
+North East,2025,82.3,E12000001
+Darlington,2006,36.5,E06000005
+Darlington,2007,64.0,E06000005
+Darlington,2009,66.0,E06000005
+Darlington,2010,57.8,E06000005
+Darlington,2011,67.0,E06000005
+Darlington,2012,64.0,E06000005
+Darlington,2013,64.0,E06000005
+Darlington,2014,64.0,E06000005
+Darlington,2015,63.0,E06000005
+Darlington,2016,87.0,E06000005
+Darlington,2017,89.0,E06000005
+Darlington,2018,86.4,E06000005
+Darlington,2019,85.6,E06000005
+Darlington,2021,93.0,E06000005
+Darlington,2022,94.0,E06000005
+Durham exc Darlington,2009,95.0,E06000047
+Durham exc Darlington,2010,95.3,E06000047
+Durham exc Darlington,2012,88.0,E06000047
+Durham exc Darlington,2013,89.0,E06000047
+Durham exc Darlington,2014,86.0,E06000047
+Durham exc Darlington,2015,88.0,E06000047
+Durham exc Darlington,2016,89.0,E06000047
+Durham exc Darlington,2017,93.0,E06000047
+Durham exc Darlington,2018,88.0,E06000047
+Durham exc Darlington,2019,88.0,E06000047
+Durham exc Darlington,2020,88.0,E06000047
+Durham exc Darlington,2021,92.0,E06000047
+Durham exc Darlington,2023,77.0,E06000047
+Durham exc Darlington,2024,76.0,E06000047
+Durham exc Darlington,2025,80.0,E06000047
+Hartlepool,2006,82.2,E06000001
+Hartlepool,2007,84.5,E06000001
+Hartlepool,2009,79.0,E06000001
+Hartlepool,2010,81.1,E06000001
+Hartlepool,2011,94.0,E06000001
+Hartlepool,2012,83.0,E06000001
+Hartlepool,2013,82.0,E06000001
+Hartlepool,2015,83.0,E06000001
+Hartlepool,2016,80.0,E06000001
+Hartlepool,2017,94.0,E06000001
+Hartlepool,2018,90.0,E06000001
+Hartlepool,2019,94.0,E06000001
+Middlesbrough,2007,63.1,E06000002
+Middlesbrough,2009,75.0,E06000002
+Middlesbrough,2010,76.0,E06000002
+Middlesbrough,2011,72.0,E06000002
+Middlesbrough,2012,80.0,E06000002
+Middlesbrough,2013,78.0,E06000002
+Middlesbrough,2015,82.0,E06000002
+Middlesbrough,2016,81.0,E06000002
+Northumberland,2009,86.0,E06000048
+Northumberland,2010,83.6,E06000048
+Northumberland,2011,82.0,E06000048
+Northumberland,2012,86.0,E06000048
+Northumberland,2013,82.0,E06000048
+Northumberland,2014,87.0,E06000048
+Northumberland,2015,85.0,E06000048
+Northumberland,2016,86.0,E06000048
+Northumberland,2017,85.0,E06000048
+Northumberland,2018,86.0,E06000048
+Northumberland,2019,86.0,E06000048
+Northumberland,2021,86.0,E06000048
+Northumberland,2022,90.0,E06000048
+Northumberland,2023,99.0,E06000048
+Northumberland,2025,79.0,E06000048
+Redcar & Cleveland,2006,70.8,E06000003
+Redcar & Cleveland,2007,73.2,E06000003
+Redcar & Cleveland,2009,77.0,E06000003
+Redcar & Cleveland,2010,81.4,E06000003
+Redcar & Cleveland,2011,83.0,E06000003
+Redcar & Cleveland,2012,76.0,E06000003
+Redcar & Cleveland,2013,75.0,E06000003
+Redcar & Cleveland,2015,83.0,E06000003
+Redcar & Cleveland,2016,86.0,E06000003
+Redcar & Cleveland,2017,88.0,E06000003
+Redcar & Cleveland,2018,85.0,E06000003
+Redcar & Cleveland,2019,84.0,E06000003
+Stockton,2006,76.3,E06000004
+Stockton,2007,81.4,E06000004
+Stockton,2009,74.0,E06000004
+Stockton,2010,71.0,E06000004
+Stockton,2011,78.0,E06000004
+Stockton,2012,76.0,E06000004
+Stockton,2015,82.0,E06000004
+Stockton,2016,85.0,E06000004
+Tees Valley CA,2022,89.3,E47000006
+Tees Valley CA,2023,83.6,E47000006
+Tees Valley CA,2024,83.0,E47000006
+Tees Valley CA,2025,81.0,E47000006
+Tyne and Wear CA,2009,83.6,E11000004
+Tyne and Wear CA,2011,76.0,E11000004
+Tyne and Wear CA,2012,91.0,E11000004
+Tyne and Wear CA,2013,87.0,E11000004
+Tyne and Wear CA,2014,87.0,E11000004
+Tyne and Wear CA,2015,89.0,E11000004
+Tyne and Wear CA,2016,88.0,E11000004
+Tyne and Wear CA,2017,90.0,E11000004
+Tyne and Wear CA,2018,90.0,E11000004
+Tyne and Wear CA,2019,91.0,E11000004
+Tyne and Wear CA,2020,89.0,E11000004
+Tyne and Wear CA,2021,94.0,E11000004
+Tyne and Wear CA,2022,92.0,E11000004
+Tyne and Wear CA,2023,88.0,E11000004
+Tyne and Wear CA,2024,88.0,E11000004
+Tyne and Wear CA,2025,89.0,E11000004
+North West,2006,86.7,E12000002
+North West,2007,87.8,E12000002
+North West,2008,86.9,E12000002
+North West,2009,84.4,E12000002
+North West,2010,82.5,E12000002
+North West,2011,85.6,E12000002
+North West,2012,86.5,E12000002
+North West,2013,88.0,E12000002
+North West,2014,89.9,E12000002
+North West,2015,88.5,E12000002
+North West,2016,87.2,E12000002
+North West,2017,86.9,E12000002
+North West,2018,88.4,E12000002
+North West,2019,87.1,E12000002
+North West,2020,87.7,E12000002
+North West,2021,92.4,E12000002
+North West,2022,88.5,E12000002
+North West,2023,85.5,E12000002
+North West,2024,86.1,E12000002
+North West,2025,86.3,E12000002
+Blackburn with Darwen,2006,96.2,E06000008
+Blackburn with Darwen,2007,97.5,E06000008
+Blackburn with Darwen,2008,91.0,E06000008
+Blackburn with Darwen,2009,92.0,E06000008
+Blackburn with Darwen,2010,79.0,E06000008
+Blackburn with Darwen,2011,89.0,E06000008
+Blackburn with Darwen,2012,87.0,E06000008
+Blackburn with Darwen,2013,90.0,E06000008
+Blackburn with Darwen,2014,84.0,E06000008
+Blackburn with Darwen,2015,89.0,E06000008
+Blackburn with Darwen,2016,77.0,E06000008
+Blackburn with Darwen,2017,89.0,E06000008
+Blackburn with Darwen,2018,91.0,E06000008
+Blackburn with Darwen,2019,94.0,E06000008
+Blackburn with Darwen,2020,89.0,E06000008
+Blackburn with Darwen,2021,93.0,E06000008
+Blackburn with Darwen,2022,90.0,E06000008
+Blackburn with Darwen,2023,92.0,E06000008
+Blackburn with Darwen,2024,90.0,E06000008
+Blackburn with Darwen,2025,92.0,E06000008
+Blackpool,2007,81.0,E06000009
+Blackpool,2008,77.0,E06000009
+Blackpool,2009,77.0,E06000009
+Blackpool,2010,76.0,E06000009
+Blackpool,2011,79.0,E06000009
+Blackpool,2012,92.0,E06000009
+Blackpool,2013,95.0,E06000009
+Blackpool,2014,96.0,E06000009
+Blackpool,2015,96.0,E06000009
+Blackpool,2016,95.0,E06000009
+Blackpool,2017,95.0,E06000009
+Blackpool,2018,96.0,E06000009
+Blackpool,2019,96.0,E06000009
+Blackpool,2020,98.0,E06000009
+Blackpool,2021,97.0,E06000009
+Blackpool,2022,96.0,E06000009
+Blackpool,2023,93.0,E06000009
+Blackpool,2024,92.0,E06000009
+Blackpool,2025,93.0,E06000009
+Cheshire,2008,91.3,E10000004
+Cheshire,2009,84.6,E10000004
+Cheshire East,2010,86.0,E06000049
+Cheshire East,2011,93.0,E06000049
+Cheshire East,2012,92.0,E06000049
+Cheshire East,2013,86.0,E06000049
+Cheshire East,2014,97.0,E06000049
+Cheshire East,2015,94.0,E06000049
+Cheshire East,2017,85.0,E06000049
+Cheshire East,2018,95.0,E06000049
+Cheshire East,2019,85.0,E06000049
+Cheshire East,2022,86.0,E06000049
+Cheshire East,2023,80.0,E06000049
+Cheshire East,2025,95.0,E06000049
+Cheshire West and Chester,2010,84.5,E06000050
+Cheshire West and Chester,2011,86.0,E06000050
+Cheshire West and Chester,2012,86.0,E06000050
+Cheshire West and Chester,2013,85.0,E06000050
+Cheshire West and Chester,2014,95.0,E06000050
+Cheshire West and Chester,2015,87.0,E06000050
+Cheshire West and Chester,2016,90.0,E06000050
+Cheshire West and Chester,2017,84.0,E06000050
+Cheshire West and Chester,2018,86.0,E06000050
+Cheshire West and Chester,2019,86.0,E06000050
+Cheshire West and Chester,2021,88.0,E06000050
+Cheshire West and Chester,2022,87.0,E06000050
+Cheshire West and Chester,2023,86.0,E06000050
+Cheshire West and Chester,2025,83.2,E06000050
+Cumberland,2025,79.4,E06000063
+Cumbria,2006,95.5,E10000006
+Cumbria,2007,95.5,E10000006
+Cumbria,2008,93.4,E10000006
+Cumbria,2009,92.0,E10000006
+Cumbria,2010,90.9,E10000006
+Cumbria,2011,93.0,E10000006
+Cumbria,2012,92.0,E10000006
+Cumbria,2013,95.0,E10000006
+Cumbria,2014,93.0,E10000006
+Cumbria,2015,95.0,E10000006
+Cumbria,2016,95.0,E10000006
+Cumbria,2017,95.0,E10000006
+Cumbria,2018,89.0,E10000006
+Cumbria,2019,82.8,E10000006
+Cumbria,2020,82.0,E10000006
+Cumbria,2021,90.0,E10000006
+Cumbria,2022,88.0,E10000006
+Cumbria,2023,84.0,E10000006
+Cumbria,2024,93.0,E10000006
+Halton,2006,86.0,E06000006
+Halton,2007,96.8,E06000006
+Halton,2008,97.4,E06000006
+Halton,2009,90.0,E06000006
+Halton,2010,86.6,E06000006
+Halton,2011,92.0,E06000006
+Halton,2012,92.0,E06000006
+Halton,2013,94.0,E06000006
+Halton,2014,95.0,E06000006
+Halton,2015,96.0,E06000006
+Halton,2016,92.0,E06000006
+Halton,2017,91.4,E06000006
+Halton,2018,91.0,E06000006
+Halton,2019,91.0,E06000006
+Halton,2021,93.0,E06000006
+Halton,2022,93.0,E06000006
+Halton,2023,86.0,E06000006
+Halton,2024,90.0,E06000006
+Halton,2025,89.0,E06000006
+Lancashire exc Blackburn & Blackpool,2006,69.0,E10000017
+Lancashire exc Blackburn & Blackpool,2007,70.0,E10000017
+Lancashire exc Blackburn & Blackpool,2008,77.0,E10000017
+Lancashire exc Blackburn & Blackpool,2009,77.0,E10000017
+Lancashire exc Blackburn & Blackpool,2010,80.5,E10000017
+Lancashire exc Blackburn & Blackpool,2011,82.0,E10000017
+Lancashire exc Blackburn & Blackpool,2012,80.0,E10000017
+Lancashire exc Blackburn & Blackpool,2013,86.0,E10000017
+Lancashire exc Blackburn & Blackpool,2014,79.0,E10000017
+Lancashire exc Blackburn & Blackpool,2015,77.0,E10000017
+Lancashire exc Blackburn & Blackpool,2016,79.0,E10000017
+Lancashire exc Blackburn & Blackpool,2017,81.0,E10000017
+Lancashire exc Blackburn & Blackpool,2018,82.0,E10000017
+Lancashire exc Blackburn & Blackpool,2019,81.0,E10000017
+Lancashire exc Blackburn & Blackpool,2020,85.0,E10000017
+Lancashire exc Blackburn & Blackpool,2022,84.0,E10000017
+Lancashire exc Blackburn & Blackpool,2023,84.0,E10000017
+Lancashire exc Blackburn & Blackpool,2024,83.0,E10000017
+Lancashire exc Blackburn & Blackpool,2025,86.0,E10000017
+Warrington,2007,86.0,E06000007
+Warrington,2008,81.0,E06000007
+Warrington,2009,82.0,E06000007
+Warrington,2010,82.3,E06000007
+Warrington,2011,82.0,E06000007
+Warrington,2012,82.0,E06000007
+Warrington,2018,91.0,E06000007
+Warrington,2019,90.0,E06000007
+Warrington,2020,92.0,E06000007
+Warrington,2021,95.0,E06000007
+Warrington,2022,91.0,E06000007
+Warrington,2023,91.0,E06000007
+Warrington,2025,83.0,E06000007
+Westmorland and Furness,2025,84.0,E06000064
+Greater Manchester CA,2010,76.8,E11000001
+Greater Manchester CA,2011,80.0,E11000001
+Greater Manchester CA,2012,82.0,E11000001
+Greater Manchester CA,2013,83.0,E11000001
+Greater Manchester CA,2014,84.0,E11000001
+Greater Manchester CA,2015,83.0,E11000001
+Greater Manchester CA,2016,83.0,E11000001
+Greater Manchester CA,2017,84.0,E11000001
+Greater Manchester CA,2018,84.0,E11000001
+Greater Manchester CA,2019,85.0,E11000001
+Greater Manchester CA,2020,84.0,E11000001
+Greater Manchester CA,2021,88.0,E11000001
+Greater Manchester CA,2022,83.0,E11000001
+Greater Manchester CA,2023,73.8,E11000001
+Greater Manchester CA,2024,69.0,E11000001
+Greater Manchester CA,2025,73.0,E11000001
+Merseyside CA,2009,80.6,E11000002
+Merseyside CA,2010,80.1,E11000002
+Merseyside CA,2011,80.0,E11000002
+Merseyside CA,2012,81.0,E11000002
+Merseyside CA,2013,81.0,E11000002
+Merseyside CA,2014,81.0,E11000002
+Merseyside CA,2015,81.0,E11000002
+Merseyside CA,2016,84.0,E11000002
+Merseyside CA,2017,81.0,E11000002
+Merseyside CA,2018,81.0,E11000002
+Merseyside CA,2019,80.0,E11000002
+Merseyside CA,2020,84.0,E11000002
+Merseyside CA,2021,95.0,E11000002
+Merseyside CA,2022,87.0,E11000002
+Merseyside CA,2023,85.0,E11000002
+Merseyside CA,2024,86.0,E11000002
+Merseyside CA,2025,92.0,E11000002
+Yorkshire and the Humber,2006,74.2,E12000003
+Yorkshire and the Humber,2007,80.2,E12000003
+Yorkshire and the Humber,2008,74.0,E12000003
+Yorkshire and the Humber,2009,76.8,E12000003
+Yorkshire and the Humber,2010,80.3,E12000003
+Yorkshire and the Humber,2011,83.3,E12000003
+Yorkshire and the Humber,2012,84.0,E12000003
+Yorkshire and the Humber,2013,85.3,E12000003
+Yorkshire and the Humber,2014,84.9,E12000003
+Yorkshire and the Humber,2015,84.3,E12000003
+Yorkshire and the Humber,2016,81.2,E12000003
+Yorkshire and the Humber,2017,84.4,E12000003
+Yorkshire and the Humber,2018,83.9,E12000003
+Yorkshire and the Humber,2019,85.4,E12000003
+Yorkshire and the Humber,2020,85.2,E12000003
+Yorkshire and the Humber,2021,90.7,E12000003
+Yorkshire and the Humber,2022,84.3,E12000003
+Yorkshire and the Humber,2023,79.6,E12000003
+Yorkshire and the Humber,2024,79.8,E12000003
+Yorkshire and the Humber,2025,80.1,E12000003
+East Riding of Yorkshire,2007,61.0,E06000011
+East Riding of Yorkshire,2008,76.5,E06000011
+East Riding of Yorkshire,2009,79.0,E06000011
+East Riding of Yorkshire,2010,79.4,E06000011
+East Riding of Yorkshire,2011,80.0,E06000011
+East Riding of Yorkshire,2012,81.0,E06000011
+East Riding of Yorkshire,2013,82.0,E06000011
+East Riding of Yorkshire,2014,83.0,E06000011
+East Riding of Yorkshire,2015,84.0,E06000011
+East Riding of Yorkshire,2016,85.0,E06000011
+East Riding of Yorkshire,2017,85.0,E06000011
+East Riding of Yorkshire,2018,83.9,E06000011
+East Riding of Yorkshire,2019,85.0,E06000011
+East Riding of Yorkshire,2021,93.0,E06000011
+East Riding of Yorkshire,2022,79.0,E06000011
+East Riding of Yorkshire,2023,77.1,E06000011
+East Riding of Yorkshire,2024,78.0,E06000011
+East Riding of Yorkshire,2025,79.0,E06000011
+Kingston upon Hull,2009,74.0,E06000010
+Kingston upon Hull,2010,80.8,E06000010
+Kingston upon Hull,2016,74.0,E06000010
+Kingston upon Hull,2017,86.0,E06000010
+Kingston upon Hull,2019,87.3,E06000010
+Kingston upon Hull,2020,96.0,E06000010
+Kingston upon Hull,2021,92.0,E06000010
+Kingston upon Hull,2022,96.0,E06000010
+Kingston upon Hull,2023,80.7,E06000010
+Kingston upon Hull,2024,80.0,E06000010
+Kingston upon Hull,2025,86.0,E06000010
+North East Lincolnshire,2006,89.0,E06000012
+North East Lincolnshire,2007,94.0,E06000012
+North East Lincolnshire,2008,85.9,E06000012
+North East Lincolnshire,2009,77.0,E06000012
+North East Lincolnshire,2010,89.6,E06000012
+North East Lincolnshire,2011,86.0,E06000012
+North East Lincolnshire,2012,86.0,E06000012
+North East Lincolnshire,2013,94.0,E06000012
+North East Lincolnshire,2014,93.0,E06000012
+North East Lincolnshire,2015,95.0,E06000012
+North East Lincolnshire,2016,94.0,E06000012
+North East Lincolnshire,2017,94.1,E06000012
+North East Lincolnshire,2018,94.0,E06000012
+North East Lincolnshire,2019,95.3,E06000012
+North East Lincolnshire,2020,95.3,E06000012
+North East Lincolnshire,2021,95.4,E06000012
+North East Lincolnshire,2022,91.9,E06000012
+North East Lincolnshire,2023,91.1,E06000012
+North East Lincolnshire,2024,89.5,E06000012
+North East Lincolnshire,2025,91.0,E06000012
+North Lincolnshire,2006,79.0,E06000013
+North Lincolnshire,2007,86.0,E06000013
+North Lincolnshire,2008,86.7,E06000013
+North Lincolnshire,2009,88.0,E06000013
+North Lincolnshire,2010,84.0,E06000013
+North Lincolnshire,2011,94.0,E06000013
+North Lincolnshire,2012,86.0,E06000013
+North Lincolnshire,2013,91.0,E06000013
+North Lincolnshire,2014,85.0,E06000013
+North Lincolnshire,2015,82.0,E06000013
+North Lincolnshire,2016,82.0,E06000013
+North Lincolnshire,2017,86.6,E06000013
+North Lincolnshire,2018,85.5,E06000013
+North Lincolnshire,2019,87.0,E06000013
+North Lincolnshire,2020,85.0,E06000013
+North Lincolnshire,2021,86.0,E06000013
+North Lincolnshire,2022,83.0,E06000013
+North Lincolnshire,2023,79.0,E06000013
+North Lincolnshire,2024,79.0,E06000013
+North Lincolnshire,2025,79.0,E06000013
+North Yorkshire exc York,2008,74.0,E10000023
+North Yorkshire exc York,2009,74.0,E10000023
+North Yorkshire exc York,2010,79.0,E10000023
+North Yorkshire exc York,2011,86.0,E10000023
+North Yorkshire exc York,2012,86.0,E10000023
+North Yorkshire exc York,2013,85.0,E10000023
+North Yorkshire exc York,2014,82.0,E10000023
+North Yorkshire exc York,2015,74.0,E10000023
+North Yorkshire exc York,2016,71.0,E10000023
+North Yorkshire exc York,2017,67.0,E10000023
+North Yorkshire exc York,2018,72.0,E10000023
+North Yorkshire exc York,2019,78.0,E10000023
+North Yorkshire exc York,2020,70.0,E10000023
+North Yorkshire exc York,2021,90.0,E10000023
+North Yorkshire exc York,2022,78.0,E10000023
+North Yorkshire exc York,2023,74.0,E10000023
+North Yorkshire exc York,2024,80.0,E10000023
+North Yorkshire exc York,2025,70.0,E10000023
+York,2006,54.5,E06000014
+York,2007,80.0,E06000014
+York,2008,46.9,E06000014
+York,2009,63.0,E06000014
+York,2010,67.7,E06000014
+York,2011,74.0,E06000014
+York,2012,81.0,E06000014
+York,2013,82.0,E06000014
+York,2014,84.0,E06000014
+York,2015,87.0,E06000014
+York,2016,83.0,E06000014
+York,2017,86.0,E06000014
+York,2018,84.0,E06000014
+York,2025,78.0,E06000014
+South Yorkshire CA,2009,77.0,E11000003
+South Yorkshire CA,2010,76.2,E11000003
+South Yorkshire CA,2011,79.0,E11000003
+South Yorkshire CA,2012,82.0,E11000003
+South Yorkshire CA,2013,79.0,E11000003
+South Yorkshire CA,2014,81.0,E11000003
+South Yorkshire CA,2015,84.0,E11000003
+South Yorkshire CA,2016,85.0,E11000003
+South Yorkshire CA,2017,86.0,E11000003
+South Yorkshire CA,2018,85.0,E11000003
+South Yorkshire CA,2019,83.0,E11000003
+South Yorkshire CA,2020,82.9,E11000003
+South Yorkshire CA,2021,88.5,E11000003
+South Yorkshire CA,2022,83.0,E11000003
+South Yorkshire CA,2023,79.0,E11000003
+South Yorkshire CA,2024,77.0,E11000003
+South Yorkshire CA,2025,81.0,E11000003
+West Yorkshire CA,2009,85.0,E11000006
+West Yorkshire CA,2010,85.0,E11000006
+West Yorkshire CA,2011,84.0,E11000006
+West Yorkshire CA,2012,86.0,E11000006
+West Yorkshire CA,2013,84.0,E11000006
+West Yorkshire CA,2014,86.0,E11000006
+West Yorkshire CA,2015,84.0,E11000006
+West Yorkshire CA,2016,83.0,E11000006
+West Yorkshire CA,2017,83.0,E11000006
+West Yorkshire CA,2018,83.0,E11000006
+West Yorkshire CA,2019,82.0,E11000006
+West Yorkshire CA,2020,82.0,E11000006
+West Yorkshire CA,2021,90.0,E11000006
+West Yorkshire CA,2022,79.0,E11000006
+West Yorkshire CA,2023,76.0,E11000006
+West Yorkshire CA,2024,75.0,E11000006
+West Yorkshire CA,2025,77.0,E11000006
+East Midlands,2006,72.2,E12000004
+East Midlands,2007,80.5,E12000004
+East Midlands,2008,80.8,E12000004
+East Midlands,2009,80.6,E12000004
+East Midlands,2010,80.0,E12000004
+East Midlands,2011,82.2,E12000004
+East Midlands,2012,82.9,E12000004
+East Midlands,2013,82.5,E12000004
+East Midlands,2014,82.9,E12000004
+East Midlands,2015,83.9,E12000004
+East Midlands,2016,84.6,E12000004
+East Midlands,2017,82.2,E12000004
+East Midlands,2018,80.1,E12000004
+East Midlands,2019,81.0,E12000004
+East Midlands,2020,76.5,E12000004
+East Midlands,2021,89.3,E12000004
+East Midlands,2022,85.0,E12000004
+East Midlands,2023,76.1,E12000004
+East Midlands,2024,77.1,E12000004
+East Midlands,2025,73.5,E12000004
+Derby,2008,85.5,E06000015
+Derby,2009,84.0,E06000015
+Derby,2010,87.6,E06000015
+Derby,2011,84.0,E06000015
+Derby,2012,86.0,E06000015
+Derby,2013,84.0,E06000015
+Derby,2014,84.0,E06000015
+Derby,2015,86.0,E06000015
+Derby,2019,93.0,E06000015
+Derby,2024,76.0,E06000015
+Derby,2025,75.0,E06000015
+Derbyshire exc Derby,2008,83.0,E10000007
+Derbyshire exc Derby,2009,73.0,E10000007
+Derbyshire exc Derby,2010,80.5,E10000007
+Derbyshire exc Derby,2011,83.0,E10000007
+Derbyshire exc Derby,2012,84.0,E10000007
+Derbyshire exc Derby,2013,86.0,E10000007
+Derbyshire exc Derby,2014,86.0,E10000007
+Derbyshire exc Derby,2015,86.0,E10000007
+Derbyshire exc Derby,2016,87.0,E10000007
+Derbyshire exc Derby,2017,84.0,E10000007
+Derbyshire exc Derby,2018,79.0,E10000007
+Derbyshire exc Derby,2019,84.0,E10000007
+Derbyshire exc Derby,2021,93.0,E10000007
+Derbyshire exc Derby,2022,89.0,E10000007
+Derbyshire exc Derby,2023,72.0,E10000007
+Derbyshire exc Derby,2025,77.0,E10000007
+Leicester,2007,85.0,E06000016
+Leicester,2008,71.0,E06000016
+Leicester,2009,72.0,E06000016
+Leicester,2010,69.4,E06000016
+Leicester,2012,75.0,E06000016
+Leicester,2013,67.0,E06000016
+Leicester,2014,73.0,E06000016
+Leicester,2015,77.0,E06000016
+Leicester,2016,79.0,E06000016
+Leicester,2017,74.0,E06000016
+Leicester,2018,79.0,E06000016
+Leicester,2019,75.8,E06000016
+Leicester,2020,69.0,E06000016
+Leicester,2022,79.0,E06000016
+Leicester,2023,63.0,E06000016
+Leicester,2024,72.0,E06000016
+Leicester,2025,71.0,E06000016
+Leicestershire exc Leicester & Rutland,2008,72.0,E10000018
+Leicestershire exc Leicester & Rutland,2009,77.0,E10000018
+Leicestershire exc Leicester & Rutland,2010,72.5,E10000018
+Leicestershire exc Leicester & Rutland,2011,78.0,E10000018
+Leicestershire exc Leicester & Rutland,2012,78.0,E10000018
+Leicestershire exc Leicester & Rutland,2013,74.0,E10000018
+Leicestershire exc Leicester & Rutland,2014,73.0,E10000018
+Leicestershire exc Leicester & Rutland,2015,78.0,E10000018
+Leicestershire exc Leicester & Rutland,2016,77.0,E10000018
+Leicestershire exc Leicester & Rutland,2017,73.0,E10000018
+Leicestershire exc Leicester & Rutland,2018,65.0,E10000018
+Leicestershire exc Leicester & Rutland,2019,63.0,E10000018
+Leicestershire exc Leicester & Rutland,2020,67.0,E10000018
+Leicestershire exc Leicester & Rutland,2022,73.0,E10000018
+Leicestershire exc Leicester & Rutland,2023,62.0,E10000018
+Leicestershire exc Leicester & Rutland,2024,71.0,E10000018
+Leicestershire exc Leicester & Rutland,2025,63.0,E10000018
+Lincolnshire,2006,69.5,E10000019
+Lincolnshire,2007,66.5,E10000019
+Lincolnshire,2008,64.5,E10000019
+Lincolnshire,2009,69.0,E10000019
+Lincolnshire,2010,71.5,E10000019
+Lincolnshire,2011,72.0,E10000019
+Lincolnshire,2012,78.0,E10000019
+Lincolnshire,2013,77.0,E10000019
+Lincolnshire,2014,75.0,E10000019
+Lincolnshire,2015,75.0,E10000019
+Lincolnshire,2016,73.0,E10000019
+Lincolnshire,2017,74.0,E10000019
+Lincolnshire,2018,78.0,E10000019
+Lincolnshire,2019,74.0,E10000019
+Lincolnshire,2021,84.0,E10000019
+Lincolnshire,2022,79.0,E10000019
+Lincolnshire,2023,66.0,E10000019
+Lincolnshire,2024,77.0,E10000019
+Lincolnshire,2025,78.0,E10000019
+Northamptonshire,2008,91.0,E10000021
+Northamptonshire,2009,90.0,E10000021
+Northamptonshire,2010,83.0,E10000021
+Northamptonshire,2021,83.0,E10000021
+North Northamptonshire,2024,69.2,E06000061
+North Northamptonshire,2025,61.0,E06000061
+Nottingham,2007,92.0,E06000018
+Nottingham,2008,84.0,E06000018
+Nottingham,2009,84.0,E06000018
+Nottingham,2010,84.9,E06000018
+Nottingham,2011,89.0,E06000018
+Nottingham,2012,84.0,E06000018
+Nottingham,2013,91.0,E06000018
+Nottingham,2014,91.0,E06000018
+Nottingham,2015,90.0,E06000018
+Nottingham,2016,91.0,E06000018
+Nottingham,2017,90.5,E06000018
+Nottingham,2018,89.0,E06000018
+Nottingham,2019,93.0,E06000018
+Nottingham,2021,97.5,E06000018
+Nottingham,2022,95.0,E06000018
+Nottingham,2023,92.0,E06000018
+Nottingham,2024,89.0,E06000018
+Nottingham,2025,90.1,E06000018
+Nottinghamshire exc Nottingham,2007,84.0,E10000024
+Nottinghamshire exc Nottingham,2008,82.0,E10000024
+Nottinghamshire exc Nottingham,2009,83.0,E10000024
+Nottinghamshire exc Nottingham,2010,79.0,E10000024
+Nottinghamshire exc Nottingham,2011,87.0,E10000024
+Nottinghamshire exc Nottingham,2012,85.0,E10000024
+Nottinghamshire exc Nottingham,2013,85.0,E10000024
+Nottinghamshire exc Nottingham,2014,84.0,E10000024
+Nottinghamshire exc Nottingham,2015,84.0,E10000024
+Nottinghamshire exc Nottingham,2016,87.0,E10000024
+Nottinghamshire exc Nottingham,2017,86.0,E10000024
+Nottinghamshire exc Nottingham,2018,85.0,E10000024
+Nottinghamshire exc Nottingham,2019,85.0,E10000024
+Nottinghamshire exc Nottingham,2020,82.0,E10000024
+Nottinghamshire exc Nottingham,2022,89.0,E10000024
+Nottinghamshire exc Nottingham,2023,83.0,E10000024
+Nottinghamshire exc Nottingham,2024,81.0,E10000024
+Nottinghamshire exc Nottingham,2025,78.0,E10000024
+Rutland,2006,75.0,E06000017
+Rutland,2007,75.0,E06000017
+Rutland,2008,94.0,E06000017
+Rutland,2009,93.0,E06000017
+Rutland,2010,91.2,E06000017
+Rutland,2012,93.0,E06000017
+Rutland,2013,96.0,E06000017
+Rutland,2014,97.0,E06000017
+Rutland,2015,95.0,E06000017
+Rutland,2016,98.0,E06000017
+Rutland,2017,94.0,E06000017
+Rutland,2018,86.0,E06000017
+Rutland,2019,80.0,E06000017
+Rutland,2020,88.0,E06000017
+Rutland,2021,89.0,E06000017
+Rutland,2022,91.0,E06000017
+Rutland,2023,88.7,E06000017
+Rutland,2024,87.0,E06000017
+Rutland,2025,72.0,E06000017
+West Northamptonshire,2023,82.0,E06000062
+West Northamptonshire,2024,72.0,E06000062
+West Northamptonshire,2025,70.2,E06000062
+West Midlands,2006,79.5,E12000005
+West Midlands,2007,82.5,E12000005
+West Midlands,2008,75.5,E12000005
+West Midlands,2009,78.8,E12000005
+West Midlands,2010,80.1,E12000005
+West Midlands,2011,79.9,E12000005
+West Midlands,2012,81.4,E12000005
+West Midlands,2013,81.3,E12000005
+West Midlands,2014,80.7,E12000005
+West Midlands,2015,79.1,E12000005
+West Midlands,2016,79.7,E12000005
+West Midlands,2017,80.4,E12000005
+West Midlands,2018,81.4,E12000005
+West Midlands,2019,82.1,E12000005
+West Midlands,2020,83.5,E12000005
+West Midlands,2021,83.8,E12000005
+West Midlands,2022,81.9,E12000005
+West Midlands,2023,79.7,E12000005
+West Midlands,2024,78.7,E12000005
+West Midlands,2025,78.6,E12000005
+Herefordshire,2006,68.0,E06000019
+Herefordshire,2007,77.0,E06000019
+Herefordshire,2008,67.0,E06000019
+Herefordshire,2009,80.0,E06000019
+Herefordshire,2010,86.0,E06000019
+Herefordshire,2011,85.0,E06000019
+Herefordshire,2012,87.0,E06000019
+Herefordshire,2013,85.0,E06000019
+Herefordshire,2014,87.0,E06000019
+Herefordshire,2016,92.0,E06000019
+Herefordshire,2017,87.0,E06000019
+Herefordshire,2019,78.0,E06000019
+Herefordshire,2020,83.0,E06000019
+Herefordshire,2021,79.0,E06000019
+Herefordshire,2022,93.0,E06000019
+Herefordshire,2023,74.0,E06000019
+Herefordshire,2024,73.0,E06000019
+Herefordshire,2025,72.0,E06000019
+Shropshire exc Telford & The Wrekin,2009,80.8,E06000051
+Shropshire exc Telford & The Wrekin,2011,84.0,E06000051
+Shropshire exc Telford & The Wrekin,2012,83.0,E06000051
+Shropshire exc Telford & The Wrekin,2013,83.0,E06000051
+Shropshire exc Telford & The Wrekin,2014,79.0,E06000051
+Shropshire exc Telford & The Wrekin,2015,76.0,E06000051
+Shropshire exc Telford & The Wrekin,2016,74.0,E06000051
+Shropshire exc Telford & The Wrekin,2017,82.0,E06000051
+Shropshire exc Telford & The Wrekin,2018,83.0,E06000051
+Shropshire exc Telford & The Wrekin,2022,79.0,E06000051
+Shropshire exc Telford & The Wrekin,2023,82.0,E06000051
+Shropshire exc Telford & The Wrekin,2024,84.0,E06000051
+Shropshire exc Telford & The Wrekin,2025,83.0,E06000051
+Staffordshire exc Stoke-on-Trent,2008,82.0,E10000028
+Staffordshire exc Stoke-on-Trent,2009,82.0,E10000028
+Staffordshire exc Stoke-on-Trent,2010,85.0,E10000028
+Staffordshire exc Stoke-on-Trent,2011,82.0,E10000028
+Staffordshire exc Stoke-on-Trent,2012,86.0,E10000028
+Staffordshire exc Stoke-on-Trent,2015,89.0,E10000028
+Staffordshire exc Stoke-on-Trent,2022,77.0,E10000028
+Staffordshire exc Stoke-on-Trent,2023,74.0,E10000028
+Staffordshire exc Stoke-on-Trent,2025,77.0,E10000028
+Stoke-on-Trent,2007,79.0,E06000021
+Stoke-on-Trent,2008,79.0,E06000021
+Stoke-on-Trent,2009,79.0,E06000021
+Stoke-on-Trent,2010,77.0,E06000021
+Stoke-on-Trent,2011,75.0,E06000021
+Stoke-on-Trent,2012,82.0,E06000021
+Stoke-on-Trent,2013,81.0,E06000021
+Stoke-on-Trent,2014,75.0,E06000021
+Stoke-on-Trent,2015,69.0,E06000021
+Stoke-on-Trent,2016,72.0,E06000021
+Stoke-on-Trent,2017,75.0,E06000021
+Stoke-on-Trent,2018,72.0,E06000021
+Stoke-on-Trent,2019,77.0,E06000021
+Stoke-on-Trent,2024,73.0,E06000021
+Stoke-on-Trent,2025,84.0,E06000021
+Telford and the Wrekin,2008,76.0,E06000020
+Telford and the Wrekin,2009,81.0,E06000020
+Telford and the Wrekin,2010,79.6,E06000020
+Telford and the Wrekin,2011,80.0,E06000020
+Telford and the Wrekin,2012,77.0,E06000020
+Telford and the Wrekin,2013,84.0,E06000020
+Telford and the Wrekin,2014,78.0,E06000020
+Telford and the Wrekin,2015,76.0,E06000020
+Telford and the Wrekin,2016,76.0,E06000020
+Telford and the Wrekin,2017,64.0,E06000020
+Telford and the Wrekin,2019,87.7,E06000020
+Telford and the Wrekin,2020,84.0,E06000020
+Telford and the Wrekin,2021,91.0,E06000020
+Telford and the Wrekin,2022,84.6,E06000020
+Telford and the Wrekin,2023,83.0,E06000020
+Telford and the Wrekin,2024,80.0,E06000020
+Telford and the Wrekin,2025,84.0,E06000020
+Warwickshire,2006,85.8,E10000031
+Warwickshire,2007,80.5,E10000031
+Warwickshire,2008,80.2,E10000031
+Warwickshire,2009,83.0,E10000031
+Warwickshire,2010,84.5,E10000031
+Warwickshire,2011,85.0,E10000031
+Warwickshire,2012,81.0,E10000031
+Warwickshire,2013,87.0,E10000031
+Warwickshire,2014,95.0,E10000031
+Warwickshire,2015,91.0,E10000031
+Warwickshire,2016,92.0,E10000031
+Warwickshire,2017,96.0,E10000031
+Warwickshire,2018,97.0,E10000031
+Warwickshire,2019,97.0,E10000031
+Warwickshire,2022,75.0,E10000031
+Warwickshire,2023,74.0,E10000031
+Warwickshire,2024,73.0,E10000031
+Warwickshire,2025,79.0,E10000031
+Worcestershire,2006,84.8,E10000034
+Worcestershire,2007,93.6,E10000034
+Worcestershire,2008,69.0,E10000034
+Worcestershire,2009,69.0,E10000034
+Worcestershire,2010,73.5,E10000034
+Worcestershire,2011,72.0,E10000034
+Worcestershire,2012,80.0,E10000034
+Worcestershire,2013,75.0,E10000034
+Worcestershire,2014,74.0,E10000034
+Worcestershire,2015,71.0,E10000034
+Worcestershire,2016,73.0,E10000034
+Worcestershire,2017,75.0,E10000034
+Worcestershire,2018,74.0,E10000034
+Worcestershire,2019,73.0,E10000034
+Worcestershire,2021,76.0,E10000034
+Worcestershire,2022,83.0,E10000034
+Worcestershire,2023,93.0,E10000034
+Worcestershire,2024,92.0,E10000034
+Worcestershire,2025,74.0,E10000034
+West Midlands CA,2009,76.0,E11000005
+West Midlands CA,2010,75.2,E11000005
+West Midlands CA,2011,76.0,E11000005
+West Midlands CA,2012,75.0,E11000005
+West Midlands CA,2013,74.0,E11000005
+West Midlands CA,2014,77.0,E11000005
+West Midlands CA,2015,82.0,E11000005
+West Midlands CA,2016,79.0,E11000005
+West Midlands CA,2017,84.0,E11000005
+West Midlands CA,2018,81.0,E11000005
+West Midlands CA,2019,80.0,E11000005
+West Midlands CA,2021,89.3,E11000005
+West Midlands CA,2022,81.4,E11000005
+West Midlands CA,2023,78.0,E11000005
+West Midlands CA,2024,76.0,E11000005
+West Midlands CA,2025,76.0,E11000005
+East of England,2006,70.1,E12000006
+East of England,2007,80.9,E12000006
+East of England,2008,73.3,E12000006
+East of England,2009,77.0,E12000006
+East of England,2010,79.5,E12000006
+East of England,2011,80.6,E12000006
+East of England,2012,82.9,E12000006
+East of England,2013,82.4,E12000006
+East of England,2014,82.7,E12000006
+East of England,2015,83.4,E12000006
+East of England,2016,81.7,E12000006
+East of England,2017,82.8,E12000006
+East of England,2018,82.6,E12000006
+East of England,2019,81.4,E12000006
+East of England,2020,84.0,E12000006
+East of England,2021,89.3,E12000006
+East of England,2022,84.2,E12000006
+East of England,2023,81.3,E12000006
+East of England,2024,76.6,E12000006
+East of England,2025,78.4,E12000006
+Bedford,2010,80.2,E06000055
+Bedford,2011,84.0,E06000055
+Bedford,2012,84.0,E06000055
+Bedford,2013,89.0,E06000055
+Bedford,2014,88.0,E06000055
+Bedford,2015,86.0,E06000055
+Bedford,2016,85.0,E06000055
+Bedford,2017,78.0,E06000055
+Bedford,2018,81.0,E06000055
+Bedford,2019,81.0,E06000055
+Bedford,2020,78.0,E06000055
+Bedford,2021,87.0,E06000055
+Bedford,2022,82.0,E06000055
+Bedford,2023,76.3,E06000055
+Bedford,2024,76.3,E06000055
+Bedford,2025,75.4,E06000055
+Bedfordshire,2007,91.0,E10000001
+Bedfordshire,2008,79.0,E10000001
+Bedfordshire,2009,82.0,E10000001
+Cambridgeshire exc Peterborough,2008,70.0,E10000003
+Cambridgeshire exc Peterborough,2009,70.0,E10000003
+Cambridgeshire exc Peterborough,2010,71.0,E10000003
+Cambridgeshire exc Peterborough,2011,74.0,E10000003
+Cambridgeshire exc Peterborough,2012,74.0,E10000003
+Cambridgeshire exc Peterborough,2013,73.0,E10000003
+Cambridgeshire exc Peterborough,2014,72.0,E10000003
+Cambridgeshire exc Peterborough,2015,69.0,E10000003
+Cambridgeshire exc Peterborough,2016,71.0,E10000003
+Cambridgeshire exc Peterborough,2017,73.0,E10000003
+Cambridgeshire exc Peterborough,2018,73.0,E10000003
+Cambridgeshire exc Peterborough,2019,75.0,E10000003
+Cambridgeshire exc Peterborough,2021,86.0,E10000003
+Cambridgeshire and Peterborough CA,2022,81.0,E47000008
+Cambridgeshire and Peterborough CA,2023,84.0,E47000008
+Cambridgeshire and Peterborough CA,2025,82.0,E47000008
+Central Bedfordshire,2014,81.0,E06000056
+Central Bedfordshire,2015,79.0,E06000056
+Central Bedfordshire,2016,81.0,E06000056
+Central Bedfordshire,2017,79.0,E06000056
+Central Bedfordshire,2018,81.0,E06000056
+Central Bedfordshire,2019,77.0,E06000056
+Central Bedfordshire,2020,78.0,E06000056
+Central Bedfordshire,2021,86.0,E06000056
+Central Bedfordshire,2022,79.0,E06000056
+Central Bedfordshire,2023,74.0,E06000056
+Central Bedfordshire,2024,70.0,E06000056
+Central Bedfordshire,2025,64.8,E06000056
+Essex exc Southend & Thurrock,2008,70.0,E10000012
+Essex exc Southend & Thurrock,2009,75.0,E10000012
+Essex exc Southend & Thurrock,2010,78.0,E10000012
+Essex exc Southend & Thurrock,2011,85.0,E10000012
+Essex exc Southend & Thurrock,2012,89.0,E10000012
+Essex exc Southend & Thurrock,2013,84.0,E10000012
+Essex exc Southend & Thurrock,2014,81.0,E10000012
+Essex exc Southend & Thurrock,2015,83.0,E10000012
+Essex exc Southend & Thurrock,2016,89.0,E10000012
+Essex exc Southend & Thurrock,2017,88.0,E10000012
+Essex exc Southend & Thurrock,2019,92.0,E10000012
+Essex exc Southend & Thurrock,2020,92.0,E10000012
+Essex exc Southend & Thurrock,2021,94.0,E10000012
+Essex exc Southend & Thurrock,2022,88.4,E10000012
+Essex exc Southend & Thurrock,2023,88.0,E10000012
+Essex exc Southend & Thurrock,2024,71.0,E10000012
+Essex exc Southend & Thurrock,2025,75.0,E10000012
+Hertfordshire,2008,80.9,E10000015
+Hertfordshire,2009,91.0,E10000015
+Hertfordshire,2010,90.2,E10000015
+Hertfordshire,2011,87.0,E10000015
+Hertfordshire,2012,93.0,E10000015
+Hertfordshire,2013,94.0,E10000015
+Hertfordshire,2014,93.0,E10000015
+Hertfordshire,2015,95.0,E10000015
+Hertfordshire,2016,81.0,E10000015
+Hertfordshire,2017,86.0,E10000015
+Hertfordshire,2018,83.0,E10000015
+Hertfordshire,2019,93.6,E10000015
+Hertfordshire,2022,93.0,E10000015
+Hertfordshire,2023,88.0,E10000015
+Hertfordshire,2024,95.0,E10000015
+Hertfordshire,2025,90.0,E10000015
+Luton,2008,53.0,E06000032
+Luton,2009,61.0,E06000032
+Luton,2011,78.0,E06000032
+Luton,2012,81.0,E06000032
+Luton,2013,78.0,E06000032
+Luton,2014,79.0,E06000032
+Luton,2015,78.0,E06000032
+Luton,2016,80.0,E06000032
+Luton,2017,82.0,E06000032
+Luton,2019,80.0,E06000032
+Luton,2020,81.0,E06000032
+Luton,2021,88.0,E06000032
+Luton,2022,84.0,E06000032
+Luton,2025,79.0,E06000032
+Norfolk,2006,72.5,E10000020
+Norfolk,2007,80.0,E10000020
+Norfolk,2008,80.6,E10000020
+Norfolk,2009,81.0,E10000020
+Norfolk,2010,82.0,E10000020
+Norfolk,2011,84.0,E10000020
+Norfolk,2012,87.0,E10000020
+Norfolk,2013,84.0,E10000020
+Norfolk,2014,86.0,E10000020
+Norfolk,2015,77.0,E10000020
+Norfolk,2016,75.0,E10000020
+Norfolk,2017,81.0,E10000020
+Norfolk,2018,81.0,E10000020
+Norfolk,2019,78.0,E10000020
+Norfolk,2022,80.0,E10000020
+Norfolk,2023,83.0,E10000020
+Norfolk,2024,72.0,E10000020
+Norfolk,2025,80.0,E10000020
+Peterborough,2007,80.0,E06000031
+Peterborough,2009,69.0,E06000031
+Peterborough,2010,82.0,E06000031
+Peterborough,2011,80.0,E06000031
+Peterborough,2012,75.0,E06000031
+Peterborough,2013,73.0,E06000031
+Peterborough,2014,78.0,E06000031
+Peterborough,2015,93.0,E06000031
+Peterborough,2017,79.0,E06000031
+Peterborough,2018,79.8,E06000031
+Peterborough,2019,76.6,E06000031
+Peterborough,2021,88.0,E06000031
+Southend,2009,82.0,E06000033
+Southend,2010,68.0,E06000033
+Southend,2011,69.0,E06000033
+Southend,2012,76.0,E06000033
+Southend,2013,73.0,E06000033
+Southend,2014,79.0,E06000033
+Southend,2015,74.0,E06000033
+Southend,2016,76.0,E06000033
+Southend,2017,80.0,E06000033
+Southend,2018,82.0,E06000033
+Southend,2019,70.0,E06000033
+Southend,2022,75.0,E06000033
+Southend,2023,71.0,E06000033
+Southend,2024,72.0,E06000033
+Southend,2025,78.0,E06000033
+Suffolk,2009,77.0,E10000029
+Suffolk,2013,87.0,E10000029
+Suffolk,2015,91.0,E10000029
+Suffolk,2016,89.0,E10000029
+Suffolk,2017,94.0,E10000029
+Suffolk,2018,92.0,E10000029
+Suffolk,2025,74.0,E10000029
+Thurrock,2006,67.8,E06000034
+Thurrock,2007,72.5,E06000034
+Thurrock,2008,79.5,E06000034
+Thurrock,2009,82.0,E06000034
+Thurrock,2010,84.8,E06000034
+Thurrock,2011,84.0,E06000034
+Thurrock,2012,87.0,E06000034
+Thurrock,2013,89.0,E06000034
+Thurrock,2014,90.0,E06000034
+Thurrock,2015,92.0,E06000034
+Thurrock,2016,90.0,E06000034
+Thurrock,2017,91.0,E06000034
+Thurrock,2018,91.0,E06000034
+Thurrock,2019,91.2,E06000034
+Thurrock,2020,91.0,E06000034
+Thurrock,2021,96.0,E06000034
+Thurrock,2022,95.0,E06000034
+Thurrock,2023,86.0,E06000034
+Thurrock,2024,80.0,E06000034
+Thurrock,2025,86.0,E06000034
+London,2009,80.8,E12000007
+London,2010,80.5,E12000007
+London,2016,81.0,E12000007
+London,2017,80.0,E12000007
+London,2018,82.0,E12000007
+London,2019,82.0,E12000007
+London,2020,83.0,E12000007
+London,2021,89.0,E12000007
+London,2022,84.0,E12000007
+London,2023,82.0,E12000007
+London,2024,80.0,E12000007
+London,2025,79.0,E12000007
+South East,2005,83.0,E12000008
+South East,2006,78.6,E12000008
+South East,2007,80.3,E12000008
+South East,2008,80.3,E12000008
+South East,2009,81.2,E12000008
+South East,2010,80.6,E12000008
+South East,2011,84.2,E12000008
+South East,2012,83.6,E12000008
+South East,2013,84.7,E12000008
+South East,2014,86.4,E12000008
+South East,2015,84.2,E12000008
+South East,2016,83.7,E12000008
+South East,2017,82.9,E12000008
+South East,2018,82.9,E12000008
+South East,2019,83.3,E12000008
+South East,2020,83.0,E12000008
+South East,2021,89.7,E12000008
+South East,2022,84.5,E12000008
+South East,2023,80.4,E12000008
+South East,2024,77.7,E12000008
+South East,2025,78.9,E12000008
+Bracknell Forest,2008,91.0,E06000036
+Bracknell Forest,2009,94.0,E06000036
+Bracknell Forest,2010,98.0,E06000036
+Bracknell Forest,2011,95.0,E06000036
+Bracknell Forest,2012,94.0,E06000036
+Bracknell Forest,2013,95.0,E06000036
+Bracknell Forest,2014,94.0,E06000036
+Bracknell Forest,2015,96.0,E06000036
+Bracknell Forest,2016,95.0,E06000036
+Bracknell Forest,2017,87.0,E06000036
+Bracknell Forest,2018,93.0,E06000036
+Bracknell Forest,2019,86.0,E06000036
+Bracknell Forest,2021,95.0,E06000036
+Bracknell Forest,2022,81.0,E06000036
+Bracknell Forest,2023,82.0,E06000036
+Bracknell Forest,2024,80.0,E06000036
+Bracknell Forest,2025,82.0,E06000036
+Brighton & Hove,2008,85.0,E06000043
+Brighton & Hove,2009,85.0,E06000043
+Brighton & Hove,2010,87.0,E06000043
+Brighton & Hove,2011,91.0,E06000043
+Brighton & Hove,2012,89.0,E06000043
+Brighton & Hove,2013,88.0,E06000043
+Brighton & Hove,2014,89.0,E06000043
+Brighton & Hove,2015,86.0,E06000043
+Brighton & Hove,2016,80.0,E06000043
+Brighton & Hove,2017,80.0,E06000043
+Brighton & Hove,2018,85.0,E06000043
+Brighton & Hove,2019,81.8,E06000043
+Brighton & Hove,2020,80.0,E06000043
+Brighton & Hove,2021,88.0,E06000043
+Brighton & Hove,2022,83.0,E06000043
+Brighton & Hove,2023,82.0,E06000043
+Brighton & Hove,2024,75.0,E06000043
+Brighton & Hove,2025,81.0,E06000043
+Buckinghamshire exc Milton Keynes,2007,65.0,E10000002
+Buckinghamshire exc Milton Keynes,2008,76.2,E10000002
+Buckinghamshire exc Milton Keynes,2009,76.0,E10000002
+Buckinghamshire exc Milton Keynes,2010,79.2,E10000002
+Buckinghamshire exc Milton Keynes,2011,82.0,E10000002
+Buckinghamshire exc Milton Keynes,2012,83.0,E10000002
+Buckinghamshire exc Milton Keynes,2013,82.0,E10000002
+Buckinghamshire exc Milton Keynes,2014,88.0,E10000002
+Buckinghamshire exc Milton Keynes,2015,78.0,E10000002
+Buckinghamshire exc Milton Keynes,2016,80.0,E10000002
+Buckinghamshire exc Milton Keynes,2017,82.0,E10000002
+Buckinghamshire exc Milton Keynes,2018,81.0,E10000002
+Buckinghamshire exc Milton Keynes,2019,92.0,E10000002
+Buckinghamshire exc Milton Keynes,2021,86.0,E10000002
+Buckinghamshire exc Milton Keynes,2022,80.0,E10000002
+Buckinghamshire exc Milton Keynes,2025,74.0,E10000002
+East Sussex exc Brighton & Hove,2006,89.0,E10000011
+East Sussex exc Brighton & Hove,2008,87.0,E10000011
+East Sussex exc Brighton & Hove,2009,79.0,E10000011
+East Sussex exc Brighton & Hove,2010,85.0,E10000011
+East Sussex exc Brighton & Hove,2011,88.0,E10000011
+East Sussex exc Brighton & Hove,2012,87.0,E10000011
+East Sussex exc Brighton & Hove,2013,85.0,E10000011
+East Sussex exc Brighton & Hove,2014,83.0,E10000011
+East Sussex exc Brighton & Hove,2015,85.0,E10000011
+East Sussex exc Brighton & Hove,2016,84.0,E10000011
+East Sussex exc Brighton & Hove,2017,83.0,E10000011
+East Sussex exc Brighton & Hove,2018,82.0,E10000011
+East Sussex exc Brighton & Hove,2019,83.0,E10000011
+East Sussex exc Brighton & Hove,2022,82.0,E10000011
+East Sussex exc Brighton & Hove,2023,77.0,E10000011
+East Sussex exc Brighton & Hove,2024,77.0,E10000011
+East Sussex exc Brighton & Hove,2025,78.0,E10000011
+Hampshire exc Portsmouth & Southampton,2006,79.0,E10000014
+Hampshire exc Portsmouth & Southampton,2007,79.0,E10000014
+Hampshire exc Portsmouth & Southampton,2008,84.0,E10000014
+Hampshire exc Portsmouth & Southampton,2009,72.0,E10000014
+Hampshire exc Portsmouth & Southampton,2010,81.0,E10000014
+Hampshire exc Portsmouth & Southampton,2011,83.0,E10000014
+Hampshire exc Portsmouth & Southampton,2012,78.0,E10000014
+Hampshire exc Portsmouth & Southampton,2013,87.0,E10000014
+Hampshire exc Portsmouth & Southampton,2014,86.0,E10000014
+Hampshire exc Portsmouth & Southampton,2015,83.0,E10000014
+Hampshire exc Portsmouth & Southampton,2016,85.0,E10000014
+Hampshire exc Portsmouth & Southampton,2017,86.0,E10000014
+Hampshire exc Portsmouth & Southampton,2018,83.0,E10000014
+Hampshire exc Portsmouth & Southampton,2019,80.0,E10000014
+Hampshire exc Portsmouth & Southampton,2020,80.0,E10000014
+Hampshire exc Portsmouth & Southampton,2021,91.0,E10000014
+Hampshire exc Portsmouth & Southampton,2022,86.0,E10000014
+Hampshire exc Portsmouth & Southampton,2025,69.0,E10000014
+Isle of Wight,2006,66.0,E06000046
+Isle of Wight,2007,75.0,E06000046
+Isle of Wight,2008,78.0,E06000046
+Isle of Wight,2009,80.0,E06000046
+Isle of Wight,2010,73.0,E06000046
+Isle of Wight,2011,78.0,E06000046
+Isle of Wight,2012,79.0,E06000046
+Isle of Wight,2013,94.0,E06000046
+Isle of Wight,2014,94.0,E06000046
+Isle of Wight,2015,86.0,E06000046
+Isle of Wight,2016,88.0,E06000046
+Isle of Wight,2017,89.0,E06000046
+Isle of Wight,2018,89.0,E06000046
+Isle of Wight,2019,88.0,E06000046
+Isle of Wight,2020,88.0,E06000046
+Isle of Wight,2021,94.0,E06000046
+Isle of Wight,2022,90.0,E06000046
+Isle of Wight,2023,88.0,E06000046
+Isle of Wight,2024,88.0,E06000046
+Isle of Wight,2025,89.0,E06000046
+Kent exc Medway Towns,2007,89.0,E10000016
+Kent exc Medway Towns,2008,92.5,E10000016
+Kent exc Medway Towns,2009,95.0,E10000016
+Kent exc Medway Towns,2014,90.0,E10000016
+Kent exc Medway Towns,2015,89.0,E10000016
+Kent exc Medway Towns,2016,85.0,E10000016
+Kent exc Medway Towns,2017,87.0,E10000016
+Kent exc Medway Towns,2022,81.0,E10000016
+Kent exc Medway Towns,2023,73.0,E10000016
+Kent exc Medway Towns,2024,73.0,E10000016
+Kent exc Medway Towns,2025,75.0,E10000016
+Medway Towns,2008,88.9,E06000035
+Medway Towns,2009,87.0,E06000035
+Medway Towns,2010,88.0,E06000035
+Medway Towns,2011,88.0,E06000035
+Medway Towns,2012,84.0,E06000035
+Medway Towns,2016,87.0,E06000035
+Medway Towns,2017,88.0,E06000035
+Medway Towns,2018,90.7,E06000035
+Medway Towns,2019,80.0,E06000035
+Medway Towns,2020,89.0,E06000035
+Medway Towns,2021,79.0,E06000035
+Medway Towns,2022,82.0,E06000035
+Medway Towns,2023,81.0,E06000035
+Medway Towns,2025,77.0,E06000035
+Milton Keynes,2008,71.0,E06000042
+Milton Keynes,2009,73.0,E06000042
+Milton Keynes,2010,76.4,E06000042
+Milton Keynes,2011,82.0,E06000042
+Milton Keynes,2012,87.0,E06000042
+Milton Keynes,2013,86.0,E06000042
+Milton Keynes,2014,85.0,E06000042
+Milton Keynes,2015,87.0,E06000042
+Milton Keynes,2016,90.0,E06000042
+Milton Keynes,2017,89.0,E06000042
+Milton Keynes,2018,88.0,E06000042
+Milton Keynes,2019,81.0,E06000042
+Milton Keynes,2020,73.0,E06000042
+Milton Keynes,2021,82.0,E06000042
+Milton Keynes,2022,86.0,E06000042
+Milton Keynes,2023,79.0,E06000042
+Milton Keynes,2024,77.0,E06000042
+Milton Keynes,2025,78.0,E06000042
+Oxfordshire,2006,68.4,E10000025
+Oxfordshire,2007,81.2,E10000025
+Oxfordshire,2008,72.0,E10000025
+Oxfordshire,2009,65.0,E10000025
+Oxfordshire,2010,72.0,E10000025
+Oxfordshire,2011,77.0,E10000025
+Oxfordshire,2012,74.0,E10000025
+Oxfordshire,2013,76.0,E10000025
+Oxfordshire,2014,76.0,E10000025
+Oxfordshire,2015,74.0,E10000025
+Oxfordshire,2016,74.0,E10000025
+Oxfordshire,2017,78.0,E10000025
+Oxfordshire,2018,73.0,E10000025
+Oxfordshire,2019,79.0,E10000025
+Oxfordshire,2020,78.0,E10000025
+Oxfordshire,2021,88.0,E10000025
+Oxfordshire,2022,85.0,E10000025
+Oxfordshire,2023,80.0,E10000025
+Oxfordshire,2024,79.0,E10000025
+Oxfordshire,2025,78.0,E10000025
+Portsmouth,2010,74.0,E06000044
+Portsmouth,2011,88.0,E06000044
+Portsmouth,2012,94.0,E06000044
+Portsmouth,2013,94.0,E06000044
+Portsmouth,2014,90.0,E06000044
+Portsmouth,2015,91.0,E06000044
+Portsmouth,2017,90.0,E06000044
+Portsmouth,2020,95.0,E06000044
+Portsmouth,2021,95.0,E06000044
+Portsmouth,2022,80.0,E06000044
+Portsmouth,2025,83.0,E06000044
+Reading,2005,83.0,E06000038
+Reading,2008,80.0,E06000038
+Reading,2009,84.0,E06000038
+Reading,2010,80.0,E06000038
+Reading,2011,82.0,E06000038
+Reading,2012,82.0,E06000038
+Reading,2013,78.0,E06000038
+Reading,2014,86.0,E06000038
+Reading,2015,89.0,E06000038
+Reading,2016,92.0,E06000038
+Reading,2018,85.0,E06000038
+Reading,2019,88.0,E06000038
+Reading,2021,95.0,E06000038
+Reading,2022,92.0,E06000038
+Reading,2023,87.0,E06000038
+Reading,2024,80.0,E06000038
+Reading,2025,83.0,E06000038
+Slough,2006,82.0,E06000039
+Slough,2007,82.0,E06000039
+Slough,2008,80.7,E06000039
+Slough,2009,81.0,E06000039
+Slough,2010,77.5,E06000039
+Slough,2011,83.0,E06000039
+Slough,2012,83.0,E06000039
+Slough,2013,91.0,E06000039
+Slough,2014,90.0,E06000039
+Slough,2015,89.0,E06000039
+Slough,2016,80.0,E06000039
+Slough,2017,76.0,E06000039
+Slough,2018,79.0,E06000039
+Slough,2022,70.0,E06000039
+Slough,2025,75.9,E06000039
+Southampton,2006,75.2,E06000045
+Southampton,2007,73.0,E06000045
+Southampton,2008,71.0,E06000045
+Southampton,2009,71.0,E06000045
+Southampton,2010,75.0,E06000045
+Southampton,2011,74.0,E06000045
+Southampton,2012,72.0,E06000045
+Southampton,2013,79.0,E06000045
+Southampton,2014,78.0,E06000045
+Southampton,2015,81.0,E06000045
+Southampton,2016,81.0,E06000045
+Southampton,2017,77.0,E06000045
+Southampton,2020,87.0,E06000045
+Southampton,2021,93.0,E06000045
+Southampton,2022,95.0,E06000045
+Southampton,2023,81.0,E06000045
+Southampton,2024,75.4,E06000045
+Southampton,2025,77.1,E06000045
+Surrey,2008,78.0,E10000030
+Surrey,2009,77.0,E10000030
+Surrey,2010,80.0,E10000030
+Surrey,2011,76.0,E10000030
+Surrey,2013,78.0,E10000030
+Surrey,2014,83.0,E10000030
+Surrey,2015,75.0,E10000030
+Surrey,2016,76.0,E10000030
+Surrey,2017,69.0,E10000030
+Surrey,2018,70.0,E10000030
+Surrey,2019,73.0,E10000030
+Surrey,2020,73.0,E10000030
+Surrey,2021,85.0,E10000030
+Surrey,2022,78.0,E10000030
+Surrey,2023,74.0,E10000030
+Surrey,2024,70.0,E10000030
+Surrey,2025,71.0,E10000030
+West Berkshire,2006,90.5,E06000037
+West Berkshire,2007,98.0,E06000037
+West Berkshire,2008,83.0,E06000037
+West Berkshire,2009,86.0,E06000037
+West Berkshire,2010,85.6,E06000037
+West Berkshire,2011,90.0,E06000037
+West Berkshire,2012,84.0,E06000037
+West Berkshire,2013,83.0,E06000037
+West Berkshire,2014,84.0,E06000037
+West Berkshire,2015,84.0,E06000037
+West Berkshire,2016,84.0,E06000037
+West Berkshire,2017,84.0,E06000037
+West Berkshire,2018,83.0,E06000037
+West Berkshire,2019,85.0,E06000037
+West Berkshire,2020,84.0,E06000037
+West Berkshire,2021,93.0,E06000037
+West Berkshire,2022,89.0,E06000037
+West Berkshire,2023,85.0,E06000037
+West Berkshire,2024,84.0,E06000037
+West Berkshire,2025,82.0,E06000037
+West Sussex,2008,87.2,E10000032
+West Sussex,2009,87.0,E10000032
+West Sussex,2010,89.0,E10000032
+West Sussex,2011,88.0,E10000032
+West Sussex,2012,90.0,E10000032
+West Sussex,2013,87.0,E10000032
+West Sussex,2014,86.0,E10000032
+West Sussex,2015,85.0,E10000032
+West Sussex,2016,86.0,E10000032
+West Sussex,2017,86.0,E10000032
+West Sussex,2018,84.0,E10000032
+West Sussex,2019,84.0,E10000032
+West Sussex,2020,86.0,E10000032
+West Sussex,2021,92.0,E10000032
+West Sussex,2022,85.0,E10000032
+West Sussex,2023,84.0,E10000032
+West Sussex,2024,80.0,E10000032
+West Sussex,2025,81.0,E10000032
+Windsor & Maidenhead,2008,81.0,E06000040
+Windsor & Maidenhead,2009,88.0,E06000040
+Windsor & Maidenhead,2010,80.3,E06000040
+Windsor & Maidenhead,2011,84.0,E06000040
+Windsor & Maidenhead,2014,86.0,E06000040
+Windsor & Maidenhead,2015,85.0,E06000040
+Windsor & Maidenhead,2016,82.0,E06000040
+Windsor & Maidenhead,2017,85.0,E06000040
+Windsor & Maidenhead,2018,86.0,E06000040
+Windsor & Maidenhead,2019,95.0,E06000040
+Windsor & Maidenhead,2021,87.0,E06000040
+Windsor & Maidenhead,2022,95.0,E06000040
+Windsor & Maidenhead,2025,88.3,E06000040
+Wokingham,2008,58.6,E06000041
+Wokingham,2009,82.0,E06000041
+Wokingham,2010,69.0,E06000041
+Wokingham,2011,86.0,E06000041
+Wokingham,2012,77.0,E06000041
+Wokingham,2013,72.0,E06000041
+Wokingham,2014,88.0,E06000041
+Wokingham,2015,73.0,E06000041
+Wokingham,2016,78.0,E06000041
+Wokingham,2017,77.0,E06000041
+Wokingham,2018,75.0,E06000041
+Wokingham,2019,73.0,E06000041
+Wokingham,2021,92.0,E06000041
+Wokingham,2022,86.0,E06000041
+Wokingham,2023,73.0,E06000041
+Wokingham,2024,72.0,E06000041
+Wokingham,2025,76.0,E06000041
+South West,2006,78.1,E12000009
+South West,2007,88.7,E12000009
+South West,2008,78.4,E12000009
+South West,2009,78.7,E12000009
+South West,2010,80.5,E12000009
+South West,2011,82.4,E12000009
+South West,2012,82.9,E12000009
+South West,2013,83.6,E12000009
+South West,2014,80.6,E12000009
+South West,2015,81.0,E12000009
+South West,2016,80.1,E12000009
+South West,2017,79.6,E12000009
+South West,2018,80.8,E12000009
+South West,2019,80.2,E12000009
+South West,2020,82.2,E12000009
+South West,2021,83.7,E12000009
+South West,2022,82.8,E12000009
+South West,2023,79.2,E12000009
+South West,2024,79.9,E12000009
+South West,2025,80.2,E12000009
+Bath & NE Somerset,2009,52.0,E06000022
+Bath & NE Somerset,2010,62.8,E06000022
+Bath & NE Somerset,2011,73.0,E06000022
+Bath & NE Somerset,2012,80.0,E06000022
+Bath & NE Somerset,2013,79.0,E06000022
+Bath & NE Somerset,2014,74.0,E06000022
+Bath & NE Somerset,2015,79.0,E06000022
+Bath & NE Somerset,2016,77.0,E06000022
+Bath & NE Somerset,2019,78.4,E06000022
+Bath & NE Somerset,2021,75.3,E06000022
+Bournemouth,2009,80.0,E06000028
+Bournemouth,2010,76.0,E06000028
+Bournemouth,2011,81.0,E06000028
+Bournemouth,2012,82.0,E06000028
+Bournemouth,2013,83.0,E06000028
+Bournemouth,2014,72.0,E06000028
+Bournemouth,2015,73.0,E06000028
+Bournemouth,2016,73.0,E06000028
+Bournemouth,2017,81.0,E06000028
+Bournemouth,2018,80.0,E06000028
+Bournemouth,2019,82.0,E06000028
+"Bournemouth, Christchurch and Poole",2021,92.0,E06000058
+"Bournemouth, Christchurch and Poole",2022,87.0,E06000058
+"Bournemouth, Christchurch and Poole",2023,84.0,E06000058
+"Bournemouth, Christchurch and Poole",2024,90.0,E06000058
+"Bournemouth, Christchurch and Poole",2025,88.0,E06000058
+Bristol,2008,54.0,E06000023
+Bristol,2009,74.0,E06000023
+Bristol,2010,69.0,E06000023
+Bristol,2011,71.0,E06000023
+Bristol,2014,82.0,E06000023
+Bristol,2015,74.0,E06000023
+Bristol,2016,80.0,E06000023
+Bristol,2017,80.0,E06000023
+Bristol,2018,76.0,E06000023
+Bristol,2019,72.0,E06000023
+Bristol,2021,75.3,E06000023
+Cornwall exc. Scilly Isles,2006,78.2,E06000052
+Cornwall exc. Scilly Isles,2008,78.0,E06000052
+Cornwall exc. Scilly Isles,2009,86.0,E06000052
+Cornwall exc. Scilly Isles,2010,82.5,E06000052
+Cornwall exc. Scilly Isles,2011,79.0,E06000052
+Cornwall exc. Scilly Isles,2012,84.0,E06000052
+Cornwall exc. Scilly Isles,2013,79.0,E06000052
+Cornwall exc. Scilly Isles,2014,84.0,E06000052
+Cornwall exc. Scilly Isles,2015,82.0,E06000052
+Cornwall exc. Scilly Isles,2016,81.0,E06000052
+Cornwall exc. Scilly Isles,2017,84.0,E06000052
+Cornwall exc. Scilly Isles,2018,85.0,E06000052
+Cornwall exc. Scilly Isles,2019,86.0,E06000052
+Cornwall exc. Scilly Isles,2021,88.0,E06000052
+Cornwall exc. Scilly Isles,2022,73.0,E06000052
+Cornwall exc. Scilly Isles,2023,67.0,E06000052
+Cornwall exc. Scilly Isles,2025,77.0,E06000052
+Devon exc Plymouth & Torbay,2006,66.0,E10000008
+Devon exc Plymouth & Torbay,2008,76.5,E10000008
+Devon exc Plymouth & Torbay,2009,78.0,E10000008
+Devon exc Plymouth & Torbay,2010,80.1,E10000008
+Devon exc Plymouth & Torbay,2011,76.0,E10000008
+Devon exc Plymouth & Torbay,2012,81.0,E10000008
+Devon exc Plymouth & Torbay,2013,77.0,E10000008
+Devon exc Plymouth & Torbay,2014,72.0,E10000008
+Devon exc Plymouth & Torbay,2015,76.0,E10000008
+Devon exc Plymouth & Torbay,2017,60.0,E10000008
+Devon exc Plymouth & Torbay,2018,74.0,E10000008
+Devon exc Plymouth & Torbay,2019,82.0,E10000008
+Devon exc Plymouth & Torbay,2020,78.0,E10000008
+Devon exc Plymouth & Torbay,2021,99.0,E10000008
+Devon exc Plymouth & Torbay,2022,100.0,E10000008
+Devon exc Plymouth & Torbay,2023,99.0,E10000008
+Devon exc Plymouth & Torbay,2024,95.0,E10000008
+Devon exc Plymouth & Torbay,2025,78.0,E10000008
+Dorset exc Poole & Bournemouth,2009,69.0,E10000009
+Dorset exc Poole & Bournemouth,2010,72.0,E10000009
+Dorset exc Poole & Bournemouth,2011,67.0,E10000009
+Dorset exc Poole & Bournemouth,2012,74.0,E10000009
+Dorset exc Poole & Bournemouth,2013,71.0,E10000009
+Dorset exc Poole & Bournemouth,2014,75.0,E10000009
+Dorset exc Poole & Bournemouth,2015,81.0,E10000009
+Dorset exc Poole & Bournemouth,2016,80.0,E10000009
+Dorset exc Poole & Bournemouth,2017,81.0,E10000009
+Dorset exc Poole & Bournemouth,2018,70.0,E10000009
+Dorset exc Poole & Bournemouth,2019,69.0,E10000009
+Dorset exc Poole & Bournemouth,2020,75.0,E10000009
+Dorset exc Poole & Bournemouth,2022,72.9,E10000009
+Dorset exc Poole & Bournemouth,2023,74.0,E10000009
+Dorset exc Poole & Bournemouth,2024,76.0,E10000009
+Dorset exc Poole & Bournemouth,2025,79.0,E10000009
+Gloucestershire,2009,82.0,E10000013
+Gloucestershire,2010,77.0,E10000013
+Gloucestershire,2011,89.0,E10000013
+Gloucestershire,2012,95.0,E10000013
+Gloucestershire,2013,96.0,E10000013
+Gloucestershire,2014,95.0,E10000013
+Gloucestershire,2018,90.0,E10000013
+Gloucestershire,2019,87.0,E10000013
+Gloucestershire,2022,87.0,E10000013
+Gloucestershire,2023,79.0,E10000013
+Gloucestershire,2024,82.0,E10000013
+Gloucestershire,2025,81.0,E10000013
+North Somerset,2009,79.0,E06000024
+North Somerset,2010,84.1,E06000024
+North Somerset,2011,81.0,E06000024
+North Somerset,2012,83.0,E06000024
+North Somerset,2013,68.0,E06000024
+North Somerset,2014,65.0,E06000024
+North Somerset,2015,75.0,E06000024
+North Somerset,2016,75.0,E06000024
+North Somerset,2018,84.0,E06000024
+North Somerset,2019,79.0,E06000024
+North Somerset,2021,71.0,E06000024
+North Somerset,2023,75.0,E06000024
+North Somerset,2024,77.93,E06000024
+North Somerset,2025,79.0,E06000024
+Plymouth,2009,85.0,E06000026
+Plymouth,2010,86.0,E06000026
+Plymouth,2011,88.0,E06000026
+Plymouth,2012,83.0,E06000026
+Plymouth,2013,91.0,E06000026
+Plymouth,2015,92.0,E06000026
+Plymouth,2020,92.0,E06000026
+Plymouth,2021,92.0,E06000026
+Plymouth,2022,79.0,E06000026
+Plymouth,2023,76.0,E06000026
+Plymouth,2024,77.0,E06000026
+Plymouth,2025,80.0,E06000026
+Poole,2009,94.0,E06000029
+Poole,2010,86.0,E06000029
+Poole,2011,94.0,E06000029
+Poole,2012,74.0,E06000029
+Poole,2013,85.0,E06000029
+Poole,2014,80.0,E06000029
+Poole,2015,78.0,E06000029
+Poole,2016,74.0,E06000029
+Poole,2017,76.0,E06000029
+Poole,2018,76.0,E06000029
+Poole,2019,83.0,E06000029
+Somerset,2007,95.0,E10000027
+Somerset,2008,84.5,E10000027
+Somerset,2009,79.0,E10000027
+Somerset,2010,86.0,E10000027
+Somerset,2011,84.0,E10000027
+Somerset,2012,82.0,E10000027
+Somerset,2013,85.0,E10000027
+Somerset,2014,76.0,E10000027
+Somerset,2015,78.0,E10000027
+Somerset,2016,81.0,E10000027
+Somerset,2017,84.0,E10000027
+Somerset,2018,86.0,E10000027
+Somerset,2019,80.0,E10000027
+Somerset,2020,83.9,E10000027
+Somerset,2022,88.7,E10000027
+Somerset,2023,85.0,E10000027
+Somerset,2024,80.0,E10000027
+Somerset,2025,74.2,E10000027
+South Gloucestershire,2009,56.0,E06000025
+South Gloucestershire,2010,74.0,E06000025
+South Gloucestershire,2011,85.0,E06000025
+South Gloucestershire,2012,86.0,E06000025
+South Gloucestershire,2013,85.0,E06000025
+South Gloucestershire,2014,84.0,E06000025
+South Gloucestershire,2015,77.0,E06000025
+South Gloucestershire,2016,75.0,E06000025
+South Gloucestershire,2017,76.5,E06000025
+South Gloucestershire,2018,87.0,E06000025
+South Gloucestershire,2019,77.0,E06000025
+South Gloucestershire,2021,77.0,E06000025
+Swindon,2006,87.9,E06000030
+Swindon,2007,90.9,E06000030
+Swindon,2008,86.0,E06000030
+Swindon,2009,98.0,E06000030
+Swindon,2010,99.0,E06000030
+Swindon,2011,99.0,E06000030
+Swindon,2012,92.0,E06000030
+Swindon,2013,89.0,E06000030
+Swindon,2014,92.0,E06000030
+Swindon,2015,92.0,E06000030
+Swindon,2016,93.0,E06000030
+Swindon,2017,89.0,E06000030
+Swindon,2018,83.0,E06000030
+Swindon,2019,87.0,E06000030
+Swindon,2022,90.0,E06000030
+Swindon,2023,84.0,E06000030
+Swindon,2024,84.0,E06000030
+Swindon,2025,98.0,E06000030
+Torbay,2006,80.5,E06000027
+Torbay,2007,85.0,E06000027
+Torbay,2008,85.0,E06000027
+Torbay,2009,83.0,E06000027
+Torbay,2010,85.0,E06000027
+Torbay,2011,81.0,E06000027
+Torbay,2012,86.0,E06000027
+Torbay,2013,92.0,E06000027
+Torbay,2014,86.0,E06000027
+Torbay,2015,88.0,E06000027
+Torbay,2022,68.0,E06000027
+Torbay,2024,69.0,E06000027
+Torbay,2025,72.0,E06000027
+West of England CA,2023,72.0,E47000009
+West of England CA,2024,74.2,E47000009
+West of England CA,2025,79.0,E47000009
+Wiltshire exc Swindon,2006,77.7,E06000054
+Wiltshire exc Swindon,2007,83.8,E06000054
+Wiltshire exc Swindon,2008,84.8,E06000054
+Wiltshire exc Swindon,2009,85.0,E06000054
+Wiltshire exc Swindon,2010,88.0,E06000054
+Wiltshire exc Swindon,2011,88.0,E06000054
+Wiltshire exc Swindon,2012,78.0,E06000054
+Wiltshire exc Swindon,2013,90.0,E06000054
+Wiltshire exc Swindon,2014,92.0,E06000054
+Wiltshire exc Swindon,2015,89.0,E06000054
+Wiltshire exc Swindon,2016,92.0,E06000054
+Wiltshire exc Swindon,2017,84.0,E06000054
+Wiltshire exc Swindon,2018,79.0,E06000054
+Wiltshire exc Swindon,2019,80.0,E06000054
+Wiltshire exc Swindon,2023,76.4,E06000054
+Wiltshire exc Swindon,2024,74.0,E06000054
+Wiltshire exc Swindon,2025,77.0,E06000054
+English non-metropolitan areas,2005,83.0,[z]
+English non-metropolitan areas,2006,76.6,[z]
+English non-metropolitan areas,2007,81.7,[z]
+English non-metropolitan areas,2008,79.1,[z]
+English non-metropolitan areas,2009,79.6,[z]
+English non-metropolitan areas,2010,80.5,[z]
+English non-metropolitan areas,2011,82.8,[z]
+English non-metropolitan areas,2012,83.3,[z]
+English non-metropolitan areas,2013,83.9,[z]
+English non-metropolitan areas,2014,84.2,[z]
+English non-metropolitan areas,2015,83.4,[z]
+English non-metropolitan areas,2016,82.9,[z]
+English non-metropolitan areas,2017,83.3,[z]
+English non-metropolitan areas,2018,83.4,[z]
+English non-metropolitan areas,2019,83.2,[z]
+English non-metropolitan areas,2020,83.8,[z]
+English non-metropolitan areas,2021,88.8,[z]
+English non-metropolitan areas,2022,85.0,[z]
+English non-metropolitan areas,2023,80.9,[z]
+English non-metropolitan areas,2024,79.5,[z]
+English non-metropolitan areas,2025,79.5,[z]
+English metropolitan areas,2009,80.4,[z]
+English metropolitan areas,2010,78.7,[z]
+English metropolitan areas,2011,79.2,[z]
+English metropolitan areas,2012,82.8,[z]
+English metropolitan areas,2013,81.3,[z]
+English metropolitan areas,2014,82.7,[z]
+English metropolitan areas,2015,83.8,[z]
+English metropolitan areas,2016,83.7,[z]
+English metropolitan areas,2017,84.7,[z]
+English metropolitan areas,2018,84.0,[z]
+English metropolitan areas,2019,83.5,[z]
+English metropolitan areas,2020,84.4,[z]
+English metropolitan areas,2021,90.8,[z]
+English metropolitan areas,2022,84.2,[z]
+English metropolitan areas,2023,80.0,[z]
+English metropolitan areas,2024,78.5,[z]
+English metropolitan areas,2025,81.3,[z]
+England,2005,83.0,[z]
+England,2006,76.6,[z]
+England,2007,81.7,[z]
+England,2008,79.1,[z]
+England,2009,79.7,[z]
+England,2010,80.4,[z]
+England,2011,82.5,[z]
+England,2012,83.2,[z]
+England,2013,83.7,[z]
+England,2014,84.1,[z]
+England,2015,83.4,[z]
+England,2016,82.9,[z]
+England,2017,83.4,[z]
+England,2018,83.5,[z]
+England,2019,83.2,[z]
+England,2020,83.8,[z]
+England,2021,89.0,[z]
+England,2022,84.9,[z]
+England,2023,80.8,[z]
+England,2024,79.4,[z]
+England,2025,79.6,[z]
+England outside London,2005,83.0,[z]
+England outside London,2006,76.6,[z]
+England outside London,2007,81.7,[z]
+England outside London,2008,79.1,[z]
+England outside London,2009,79.6,[z]
+England outside London,2010,80.4,[z]
+England outside London,2011,82.5,[z]
+England outside London,2012,83.2,[z]
+England outside London,2013,83.7,[z]
+England outside London,2014,84.1,[z]
+England outside London,2015,83.4,[z]
+England outside London,2016,82.9,[z]
+England outside London,2017,83.4,[z]
+England outside London,2018,83.5,[z]
+England outside London,2019,83.2,[z]
+England outside London,2020,83.8,[z]
+England outside London,2021,89.0,[z]
+England outside London,2022,85.0,[z]
+England outside London,2023,80.8,[z]
+England outside London,2024,79.4,[z]
+England outside London,2025,79.6,[z]

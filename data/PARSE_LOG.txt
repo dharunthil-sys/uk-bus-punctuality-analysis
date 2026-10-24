@@ -1,0 +1,8 @@
+Source: https://assets.publishing.service.gov.uk/media/69c11f97cfa346b9d4704a52/bus09.ods
+Sheets: ['Cover_Sheet', 'Table_of_Contents', 'Notes', 'BUS09a', 'BUS09b']
+- Cover_Sheet: title='            bus reliability and punctuality                       about this data                       this spreadsheet' table=no
+- Table_of_Contents: title='            table of contents                       this worksheet contains one table                       worksheet na' table=no
+- Notes: title='            notes table                       this worksheet contains one table.                        note number     ' table=no
+- BUS09a: title='            non-frequent bus services running on time [note 1] by local authority: england, annual from year ending marc' table=yes
+- BUS09b: title='            average excess waiting time for frequent services by local authority: england, annual from year ending march' table=yes
+Chosen sheet: BUS09a (score 22):             non-frequent bus services running on time [note 1] by local authority: england, annual from year ending march 2005 [formerly national indicator 178a  [note 2]]                       this w
