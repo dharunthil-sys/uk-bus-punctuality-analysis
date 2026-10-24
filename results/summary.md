@@ -2,6 +2,8 @@
 
 Source: DfT table BUS09, 86 local authority areas, 2006 to 2025. Measure: % of non-frequent bus services (fewer than six an hour) running on time.
 
+Years are DfT reporting years ending in March: 2019 means April 2018 to March 2019, the last full year before COVID-19. The 2021 peak reflects lockdown, when roads were empty and timetables were cut.
+
 ## Headline
 
 - England: **79.6%** of non-frequent services ran on time in 2025, compared with 76.6% in 2006 and 83.2% in 2019 before the pandemic.
